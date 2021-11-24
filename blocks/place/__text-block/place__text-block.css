@@ -1,0 +1,6 @@
+@media screen and (max-width: 540px) {
+  .place__text-block {
+    grid-area: place__text-block;
+    padding: 0 16px 0 16px;
+  }
+}
