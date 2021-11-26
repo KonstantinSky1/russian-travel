@@ -4,13 +4,8 @@
 
 @media screen and (max-width: 1120px) {
   .cover {
-  padding: 92px 0 0 0;
-  }
-}
-
-@media screen and (max-width: 940px) {
-  .cover {
-  padding: 90px 0 0 0;
+  /*92пикселя сверху оставляем, слева-справа убираем отступы*/
+  padding: 92px 0 0 0; 
   }
 }
 
